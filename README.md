@@ -109,7 +109,7 @@ Every notebook runs top to bottom on a laptop (notebooks 09, 14, 15, 16 and 17 t
 If you use this work, please cite it as:
 
 ```text
-Benito Alappat Tiny (2026). Quantum Photonics Model Chain. GitHub repository. https://github.com/Nebtio-eng/quantum-photonics-model-chain
+Alappat Tiny, B. (2026). Quantum Photonics Model Chain. GitHub repository. https://github.com/Nebtio-eng/quantum-photonics-model-chain
 ```
 
 A machine-readable version is in [CITATION.cff](CITATION.cff).
