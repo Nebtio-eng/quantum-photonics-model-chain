@@ -104,6 +104,16 @@ Every notebook runs top to bottom on a laptop (notebooks 09, 14, 15, 16 and 17 t
 - Two-photon absorption is not modelled: the pair rate scales as P², so the optimal pump comes out about 60 % too high.
 - In Crisan et al. 2025, the 59 dB range is their simulated value; their measured points reach 50 dB (qubits) and 44 dB (qutrits) and have not yet been compared with the model point by point.
 
+## How to cite
+
+If you use this work, please cite it as:
+
+```text
+Benito Alappat Tiny (2026). Quantum Photonics Model Chain. GitHub repository. https://github.com/Nebtio-eng/quantum-photonics-model-chain
+```
+
+A machine-readable version is in [CITATION.cff](CITATION.cff).
+
 ## References
 
 - C. K. Hong, Z. Y. Ou, L. Mandel, Phys. Rev. Lett. 59, 2044 (1987).
